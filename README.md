@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Islam Abd El Hakim</h1>
-<h3 align="center">A passionate Software Tester from Egypt</h3>
+<h3 align="center">A passionate Software Tester From Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islamhakim97" alt="islamhakim97" /></a> </p>
 
