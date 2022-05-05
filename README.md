@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Islam Abd El Hakim</h1>
 <h3 align="center">A passionate Software Tester from Egypt</h3>
@@ -7,7 +6,7 @@
 
 - 🔭 I’m currently working on [Baims.com](https://github.com/islamhakim97/Baims-Test-Automation)
 
-- 🌱 I’m currently learning **and Update My Skills in Software Automation Testing.**
+- 🌱 I’m currently learning and Update My Skills in Software Automation Testing.
 
 - 👨‍💻 All of my projects are available at [https://github.com/islamhakim97?tab=repositories](https://github.com/islamhakim97?tab=repositories)
 
