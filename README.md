@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning and Update My Skills in Software Automation Testing.
 
-- 👨‍💻 All of my projects are available at [https://github.com/islamhakim97?tab=repositories](https://github.com/islamhakim97?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/islamhakim97?tab=repositories">My Projects</a>
 
 - 💬 Ask me about **Java And Selenium**
 
 - 📫 How to reach me **islamabdelhakim10@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1DM9npsRNU6kodwGQpaRvSFWgUyJdRe54/view?usp=sharing">My RESUME</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1DM9npsRNU6kodwGQpaRvSFWgUyJdRe54/view?usp=sharing">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
