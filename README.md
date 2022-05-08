@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Baims.com](https://github.com/islamhakim97/Baims-Test-Automation)
 
-- 🌱 I’m currently learning and Update My Skills in Software Automation Testing.
+- 🌱 I’m currently learning and Updating My Skills in Software Automation Testing.
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/islamhakim97?tab=repositories" target="_blank" >My Projects</a>
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **islamabdelhakim10@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1DM9npsRNU6kodwGQpaRvSFWgUyJdRe54/view?usp=sharing" target="_blank" >My Resume</a>
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1tuGWZpdctGefbHzI2XpgisZQcgDT0XDbJZdd5xHg82U/edit?usp=sharing" target="_blank" >My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
